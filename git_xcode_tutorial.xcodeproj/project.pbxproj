@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		DE58B40F1CEEA1FF004BEB49 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DE58B40E1CEEA1FF004BEB49 /* main.m */; };
+		DE58B4171CEEAB71004BEB49 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = DE58B4161CEEAB71004BEB49 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,6 +27,7 @@
 		DE58B40B1CEEA1FF004BEB49 /* git_xcode_tutorial */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = git_xcode_tutorial; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE58B40E1CEEA1FF004BEB49 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		DE58B4151CEEA7A4004BEB49 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		DE58B4161CEEAB71004BEB49 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 		DE58B4021CEEA1FF004BEB49 = {
 			isa = PBXGroup;
 			children = (
+				DE58B4161CEEAB71004BEB49 /* README.md */,
 				DE58B4151CEEA7A4004BEB49 /* .gitignore */,
 				DE58B40D1CEEA1FF004BEB49 /* git_xcode_tutorial */,
 				DE58B40C1CEEA1FF004BEB49 /* Products */,
@@ -120,6 +123,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DE58B4171CEEAB71004BEB49 /* README.md in Sources */,
 				DE58B40F1CEEA1FF004BEB49 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
