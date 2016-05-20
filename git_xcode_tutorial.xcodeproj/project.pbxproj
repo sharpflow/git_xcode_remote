@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		DE58B40B1CEEA1FF004BEB49 /* git_xcode_tutorial */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = git_xcode_tutorial; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE58B40E1CEEA1FF004BEB49 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		DE58B4151CEEA7A4004BEB49 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		DE58B4021CEEA1FF004BEB49 = {
 			isa = PBXGroup;
 			children = (
+				DE58B4151CEEA7A4004BEB49 /* .gitignore */,
 				DE58B40D1CEEA1FF004BEB49 /* git_xcode_tutorial */,
 				DE58B40C1CEEA1FF004BEB49 /* Products */,
 			);
@@ -239,6 +241,7 @@
 				DE58B4141CEEA1FF004BEB49 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
