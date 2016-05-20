@@ -11,7 +11,8 @@
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
-        printf("hi world /n");
+        printf("hi world \n");
+        printf("modified in hotfix1 \n");
     }
     return 0;
 }
