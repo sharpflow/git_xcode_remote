@@ -15,6 +15,7 @@ int main(int argc, const char * argv[]) {
         printf("modified in hotfix1 \n");
         printf("modified in master \n");
         printf("remodifeid in hotfix1 \n");
+        printf("remodified in master after modified in GitHub");
     }
     return 0;
 }
