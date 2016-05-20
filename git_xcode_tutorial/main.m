@@ -13,6 +13,7 @@ int main(int argc, const char * argv[]) {
         // insert code here...
         printf("hi world \n");
         printf("modified in hotfix1 \n");
+        printf("modified in master \n");ç
     }
     return 0;
 }
